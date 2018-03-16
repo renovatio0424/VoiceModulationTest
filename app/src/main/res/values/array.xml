@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voice_mod_list">
+        <item>alien</item>
+        <item>baby</item>
+        <item>cave</item>
+        <item>chipmunk</item>
+        <item>echo</item>
+        <item>harmony</item>
+        <item>helio</item>
+        <item>ogre</item>
+        <item>romantic-ulala</item>
+        <item>santa</item>
+        <item>speechifier</item>
+        <item>sword</item>
+    </string-array>
+</resources>
